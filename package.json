@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@distube/ytdl-core": "latest",
-    "@dongdev/fca-unofficial": "^2.0.32",
+    "@dongdev/fca-unofficial": "^3.0.29",
     "@google-cloud/text-to-speech": "^5.4.0",
     "@google/genai": "^1.22.0",
     "@google/generative-ai": "^0.21.0",
